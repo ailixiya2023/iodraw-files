@@ -300,7 +300,7 @@
         <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-29" value="日志表" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;;" vertex="1" parent="1">
           <mxGeometry x="264" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-30" value="配置ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-30" value="日志id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="1220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-31" value="配置值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
