@@ -297,6 +297,47 @@
             <mxPoint x="406" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-29" value="日志表" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-30" value="配置ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-31" value="配置值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-32" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-33" value="配置名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZW-f7tWkPEVwxOwrx1Nh-29" target="ZW-f7tWkPEVwxOwrx1Nh-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1320" as="sourcePoint" />
+            <mxPoint x="356" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZW-f7tWkPEVwxOwrx1Nh-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="206" y="1400" as="sourcePoint" />
+            <mxPoint x="264" y="1360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZW-f7tWkPEVwxOwrx1Nh-31" target="ZW-f7tWkPEVwxOwrx1Nh-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="326" y="1430" as="sourcePoint" />
+            <mxPoint x="296" y="1410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZW-f7tWkPEVwxOwrx1Nh-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="1360" as="sourcePoint" />
+            <mxPoint x="416" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
